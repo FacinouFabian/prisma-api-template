@@ -1,14 +1,14 @@
 {
-  "name": "create-prisma-api",
+  "name": "prisma-api-template",
   "description": "A prisma api starter kit.",
   "version": "1.0.0",
   "main": "main.js",
   "author": "FacinouFabian <fabianfacinou02@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/FacinouFabian/create-prisma-api",
-  "bugs": "https://github.com/FacinouFabian/create-prisma-api/issues",
+  "homepage": "https://github.com/FacinouFabian/prisma-api-template",
+  "bugs": "https://github.com/FacinouFabian/prisma-api-template/issues",
   "repository": {
-    "url": "https://github.com/FacinouFabian/create-prisma-api",
+    "url": "https://github.com/FacinouFabian/prisma-api-template",
     "type": "git"
   },
   "keywords": [
@@ -23,7 +23,7 @@
     "bin/*.js"
   ],
   "bin": {
-    "create-prisma-api": "bin/create-prisma-api.js"
+    "prisma-api-template": "bin/prisma-api-template.js"
   },
   "scripts": {
     "dev": "yarn nodemon",

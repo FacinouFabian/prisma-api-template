@@ -1,4 +1,4 @@
 {
-    "name": "create-prisma-api",
+    "name": "prisma-api-template",
     "env": ["PORT"]
 }

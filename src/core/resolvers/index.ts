@@ -1,7 +1,5 @@
 import userQueries from './queries/users'
 import addUser from './mutations/addUser'
-import deleteUser from './mutations/deleteUser'
-import updateUser from './mutations/updateUser'
 
 const resolvers = {
   Query: {
@@ -9,8 +7,6 @@ const resolvers = {
   },
   Mutation: {
     addUser,
-    deleteUser,
-    updateUser,
   },
 }
 
